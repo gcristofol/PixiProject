@@ -1,3 +1,4 @@
+
 # Pixi.js Project #
 
 A generic frontend **Pixi.js** project boiler plate in **TypeScript** with **source map** support.
